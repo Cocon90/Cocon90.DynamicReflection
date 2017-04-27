@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <RootNamespace>Cocon90.DynamicReflection</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;DEBUG;NETSTANDARD</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DefineConstants>TRACE;NETSTANDARD</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Cocon90.DynamicReflection\DynamicType.cs" Link="DynamicType.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\Helper\DynamicMethodHelper.cs" Link="Helper\DynamicMethodHelper.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\IDynamicConstructorInfo.cs" Link="IDynamicConstructorInfo.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\IDynamicFieldInfo.cs" Link="IDynamicFieldInfo.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\IDynamicPropertyInfo.cs" Link="IDynamicPropertyInfo.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\IDynamicType.cs" Link="IDynamicType.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\Member\RefConstructorInfo.cs" Link="Member\RefConstructorInfo.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\Member\RefFieldInfo.cs" Link="Member\RefFieldInfo.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\Member\RefPropertyInfo.cs" Link="Member\RefPropertyInfo.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\Models\ReflectionInfo.cs" Link="Models\ReflectionInfo.cs" />
+    <Compile Include="..\Cocon90.DynamicReflection\ReflectionCacheManager.cs" Link="ReflectionCacheManager.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Helper\" />
+    <Folder Include="Member\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Reflection" Version="4.3.0" />
+    <PackageReference Include="System.Reflection.Emit.ILGeneration" Version="4.3.0" />
+    <PackageReference Include="System.Reflection.Emit.Lightweight" Version="4.3.0" />
+    <PackageReference Include="System.Reflection.TypeExtensions" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Test.Core.deps.json
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Test.Core.runtimeconfig.json
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Test.Core.runtimeconfig.dev.json
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Test.Core.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Test.Core.pdb
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Core.DynamicReflection.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Core.DynamicReflection.pdb
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Release\netcoreapp1.1\Cocon90.Test.Core.csprojResolveAssemblyReference.cache
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Release\netcoreapp1.1\Cocon90.Test.Core.AssemblyInfo.cs
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Release\netcoreapp1.1\Cocon90.Test.Core.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Release\netcoreapp1.1\Cocon90.Test.Core.pdb

@@ -1,0 +1,7 @@
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\bin\Debug\netstandard1.3\Cocon90.Core.DynamicReflection.deps.json
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\obj\Debug\netstandard1.3\Cocon90.Core.DynamicReflection.csprojResolveAssemblyReference.cache
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\obj\Debug\netstandard1.3\Cocon90.Core.DynamicReflection.AssemblyInfo.cs
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\bin\Debug\netstandard1.3\Cocon90.Core.DynamicReflection.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\bin\Debug\netstandard1.3\Cocon90.Core.DynamicReflection.pdb
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\obj\Debug\netstandard1.3\Cocon90.Core.DynamicReflection.dll
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\obj\Debug\netstandard1.3\Cocon90.Core.DynamicReflection.pdb
