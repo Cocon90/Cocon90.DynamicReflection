@@ -4,7 +4,7 @@
     <TargetFramework>netstandard1.3</TargetFramework>
     <RootNamespace>Cocon90.DynamicReflection</RootNamespace>
     <Description>用于Emit快速反射的库。 支持NetStandard1.3+ 支持.net4.0+ 支持NetCore 1.0+</Description>
-    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/Cocon90/Cocon90.DynamicReflection</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Cocon90/Cocon90.DynamicReflection</PackageProjectUrl>
     <PackageIconUrl>https://github.com/Cocon90/Cocon90.DynamicReflection</PackageIconUrl>
     <RepositoryUrl>https://github.com/Cocon90/Cocon90.DynamicReflection</RepositoryUrl>
