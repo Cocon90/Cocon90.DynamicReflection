@@ -19,8 +19,12 @@ namespace Cocon90.DynamicReflection.Models
             {
                 DynamicPropertyDics.Add(pro.Name, pro);
             }
-
+            this.MetedataDicts = new Dictionary<string, object>();
         }
+        /// <summary>
+        /// 额外信息存放。
+        /// </summary>
+        public Dictionary<string, object> MetedataDicts { get; set; }
         /// <summary>
         /// 原始类型
         /// </summary>
