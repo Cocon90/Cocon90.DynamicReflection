@@ -11,9 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Cocon90.Core.DynamicReflection")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Sindrol（songxingzhu）")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("copyright @2017 songxignzhu")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("用于Emit快速反射的库。 支持NetStandard1.3+ 支持.net4.0+ 支持NetCore 1.0+")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cocon90.Core.DynamicReflection")]
