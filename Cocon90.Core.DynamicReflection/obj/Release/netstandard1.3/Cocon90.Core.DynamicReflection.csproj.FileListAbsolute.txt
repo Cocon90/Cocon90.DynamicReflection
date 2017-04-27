@@ -5,3 +5,4 @@ D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicRefl
 D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\obj\Release\netstandard1.3\Cocon90.Core.DynamicReflection.AssemblyInfo.cs
 D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\obj\Release\netstandard1.3\Cocon90.Core.DynamicReflection.dll
 D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\obj\Release\netstandard1.3\Cocon90.Core.DynamicReflection.pdb
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\bin\Release\netstandard1.3\Cocon90.Core.DynamicReflection.xml

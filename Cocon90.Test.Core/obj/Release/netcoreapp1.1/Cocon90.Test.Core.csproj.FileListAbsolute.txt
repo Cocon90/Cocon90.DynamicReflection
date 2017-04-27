@@ -12,3 +12,4 @@ D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Re
 D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Release\netcoreapp1.1\Cocon90.Test.Core.AssemblyInfo.cs
 D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Release\netcoreapp1.1\Cocon90.Test.Core.dll
 D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\obj\Release\netcoreapp1.1\Cocon90.Test.Core.pdb
+D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Test.Core\bin\Release\netcoreapp1.1\Cocon90.Core.DynamicReflection.xml
