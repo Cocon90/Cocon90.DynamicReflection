@@ -3887,7 +3887,7 @@
     "C:\\Users\\yungoal\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "restore": {
       "projectUniqueName": "D:\\Project\\NetProject\\Cocon90\\Cocon90.DynamicReflection\\Cocon90.Core.DynamicReflection\\Cocon90.Core.DynamicReflection.csproj",
       "projectName": "Cocon90.Core.DynamicReflection",

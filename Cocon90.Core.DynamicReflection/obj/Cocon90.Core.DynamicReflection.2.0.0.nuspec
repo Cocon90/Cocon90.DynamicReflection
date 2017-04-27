@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cocon90.Core.DynamicReflection</id>
+    <version>2.0.0</version>
+    <authors>Sindrol（songxingzhu）</authors>
+    <owners>Sindrol（songxingzhu）</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Cocon90/Cocon90.DynamicReflection</licenseUrl>
+    <projectUrl>https://github.com/Cocon90/Cocon90.DynamicReflection</projectUrl>
+    <iconUrl>https://github.com/Cocon90/Cocon90.DynamicReflection</iconUrl>
+    <description>用于Emit快速反射的库。 支持NetStandard1.3+ 支持.net4.0+ 支持NetCore 1.0+</description>
+    <releaseNotes>https://github.com/Cocon90/Cocon90.DynamicReflection</releaseNotes>
+    <copyright>copyright @2017 songxignzhu</copyright>
+    <repository url="https://github.com/Cocon90/Cocon90.DynamicReflection" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.3">
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.TypeExtensions" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.Emit.ILGeneration" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\bin\Release\netstandard1.3\Cocon90.Core.DynamicReflection.dll" target="lib\netstandard1.3\Cocon90.Core.DynamicReflection.dll" />
+    <file src="D:\Project\NetProject\Cocon90\Cocon90.DynamicReflection\Cocon90.Core.DynamicReflection\bin\Release\netstandard1.3\Cocon90.Core.DynamicReflection.xml" target="lib\netstandard1.3\Cocon90.Core.DynamicReflection.xml" />
+  </files>
+</package>

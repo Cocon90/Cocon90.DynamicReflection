@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v1.3": {},
     ".NETStandard,Version=v1.3/": {
-      "cocon90.core.dynamicreflection/1.0.0": {
+      "cocon90.core.dynamicreflection/2.0.0": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "System.Reflection": "4.3.0",
@@ -596,7 +596,7 @@
     }
   },
   "libraries": {
-    "cocon90.core.dynamicreflection/1.0.0": {
+    "cocon90.core.dynamicreflection/2.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

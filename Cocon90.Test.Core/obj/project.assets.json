@@ -2918,7 +2918,7 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "Cocon90.Core.DynamicReflection/1.0.0": {
+      "Cocon90.Core.DynamicReflection/2.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.3",
         "dependencies": {
@@ -8559,7 +8559,7 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Cocon90.Core.DynamicReflection/1.0.0": {
+    "Cocon90.Core.DynamicReflection/2.0.0": {
       "type": "project",
       "path": "../Cocon90.Core.DynamicReflection/Cocon90.Core.DynamicReflection.csproj",
       "msbuildProject": "../Cocon90.Core.DynamicReflection/Cocon90.Core.DynamicReflection.csproj"
@@ -8567,7 +8567,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "Cocon90.Core.DynamicReflection >= 1.0.0",
+      "Cocon90.Core.DynamicReflection >= 2.0.0",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
       "Microsoft.NETCore.App >= 1.1.1",
       "xunit >= 2.2.0",
