@@ -25,7 +25,7 @@ namespace Cocon90.DynamicReflection
 
             return new RefConstructorInfo(type, info);
         }
-#if NETFRAMEWORK
+
         public IDynamicConstructorInfo GetConstructor(BindingFlags bindingAttr, Binder binder, Type[] types, ParameterModifier[] modifiers)
         {
             ConstructorInfo info = type.GetConstructor(bindingAttr, binder, types, modifiers);
@@ -45,7 +45,7 @@ namespace Cocon90.DynamicReflection
 
             return new RefConstructorInfo(type, info);
         }
-#endif
+
         public IDynamicConstructorInfo[] GetConstructors()
         {
             List<IDynamicConstructorInfo> list = new List<IDynamicConstructorInfo>();
@@ -148,7 +148,7 @@ namespace Cocon90.DynamicReflection
             return new RefPropertyInfo(type, info);
         }
 
-#if NETFRAMEWORK
+ 
         public IDynamicPropertyInfo GetProperty(string name, Type[] types)
         {
             PropertyInfo info = type.GetProperty(name, types);
@@ -158,7 +158,7 @@ namespace Cocon90.DynamicReflection
 
             return new RefPropertyInfo(type, info);
         }
-#endif
+ 
 
         public IDynamicPropertyInfo GetProperty(string name, Type returnType, Type[] types)
         {
@@ -169,7 +169,7 @@ namespace Cocon90.DynamicReflection
 
             return new RefPropertyInfo(type, info);
         }
-#if NETFRAMEWORK
+ 
         public IDynamicPropertyInfo GetProperty(string name, Type returnType, Type[] types, ParameterModifier[] modifiers)
         {
             PropertyInfo info = type.GetProperty(name, returnType, types, modifiers);
@@ -189,7 +189,7 @@ namespace Cocon90.DynamicReflection
 
             return new RefPropertyInfo(type, info);
         }
-#endif
+ 
 
         public IDynamicPropertyInfo[] GetProperties()
         {

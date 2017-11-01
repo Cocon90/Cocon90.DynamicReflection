@@ -188,11 +188,7 @@ namespace Cocon90.DynamicReflection.Helper
         }
         internal static void BoxIfNeeded(ILGenerator generator, Type type)
         {
-#if NETFRAMEWORK
             if (type.IsValueType)
-#else
-            if (type.GetTypeInfo().IsValueType)
-#endif
             {
                 generator.Emit(OpCodes.Box, type);
             }
@@ -205,11 +201,7 @@ namespace Cocon90.DynamicReflection.Helper
         /// <param name="type"></param>
         internal static void UnboxIfNeeded(ILGenerator generator, Type type)
         {
-#if NETFRAMEWORK
             if (type.IsValueType)
-#else
-            if (type.GetTypeInfo().IsValueType)
-#endif
             {
                 generator.Emit(OpCodes.Unbox_Any, type);
             }
